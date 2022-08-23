@@ -23,8 +23,13 @@ You cannot redistribute/resell this tool commerically however.
 -Ludovic (author)
 
 
+
 UPDATE 2022 - ALSO SEE:
+
 https://forums.unrealengine.com/t/tool-quake-3-assets-maps-converter/96920/17
+
 http://www.custommapmakers.org/viewtopic.php?p=7750
+
 https://www.urbanterror.info/forums/topic/35131-map-conversion-tool-and-conversion-process-windows-only/
+
 https://www.youtube.com/watch?v=O4eTsO0oy_c
